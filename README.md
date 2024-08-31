@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuXuan-Du01
-- 🧐 I’m currently learning SICP
+- 🧐 I’m a student of GSAI,Renmin University of China
 - 🏙️visit [my digital garden](https://mydg-leodu.netlify.app/)
 
 <!---
