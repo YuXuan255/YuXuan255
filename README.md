@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YuXuan-Du01
+- 👋 Hi, I’m @YuXuan255
 - 🧐 I’m a student of GSAI,Renmin University of China
-- 🏙️visit [my digital garden](https://mydg-leodu.netlify.app/)
+- 🏙️ visit [my blog](https://yuxuan255.github.io/)
 
 <!---
 YuXuan-Du01/YuXuan-Du01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
